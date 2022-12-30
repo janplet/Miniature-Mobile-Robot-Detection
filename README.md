@@ -1,6 +1,6 @@
 # Miniature-Mobile-Robot-Detection-using-an-Ultra-Low-Resolution-Time-of-Flight-Sensor
 
-Source files for ToF paper: Miniature Mobile Robot Detection using an Ultra-Low Resolution Time-of-Flight Sensor
+Source files for ToF paper: Miniature Mobile Robot Detection using an Ultra-Low Resolution Time-of-Flight Sensor. All the files are modified to run with the Arduino platform.
 
 The Inference file contains the EdgeImpulse platform library with the best selected model for robot classification.
 
