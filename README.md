@@ -2,6 +2,8 @@
 
 Source files for ToF paper: Miniature Mobile Robot Detection using an Ultra-Low Resolution Time-of-Flight Sensor. All the files are modified to run with the Arduino platform.
 
+The dataset can be accessed via IEEEDataport https://ieee-dataport.org. The Dataset DOI is TODO.
+
 The Inference file contains the EdgeImpulse platform library with the best selected model for robot classification.
 
 The STM32duino_VL53L5CX file contains the library used for the VL53L5CX ToF sensor from ST Microelectronics. Original files can be accessed at: https://github.com/stm32duino/VL53L5CX.
