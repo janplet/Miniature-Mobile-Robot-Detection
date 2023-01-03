@@ -1,6 +1,6 @@
 # Miniature-Mobile-Robot-Detection-using-an-Ultra-Low-Resolution-Time-of-Flight-Sensor
 
-### Source files for ToF paper: Miniature Mobile Robot Detection using an Ultra-Low Resolution Time-of-Flight Sensor.
+### Source files for ToF paper: *Miniature Mobile Robot Detection using an Ultra-Low Resolution Time-of-Flight Sensor*.
 
 The dataset can be accessed via IEEEDataport https://ieee-dataport.org. The Dataset DOI is TODO.
 
