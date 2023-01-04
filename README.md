@@ -4,7 +4,7 @@
 
 The dataset can be accessed via IEEEDataport https://ieee-dataport.org/documents/miniature-mobile-robot-detection-using-ultra-low-resolution-time-flight-sensor. The Dataset DOI is 10.21227/28ha-8921.
 
-The ToF_library_inferencing.zip file contains the EdgeImpulse platform library with the best selected model for robot classification. The platform can be accessed at https://www.edgeimpulse.com/.
+The ToF_library_inferencing.zip file contains the EdgeImpulse platform library with the best selected model for robot classification. The platform can be accessed at https://www.edgeimpulse.com.
 
 The STM32duino_VL53L5CX file contains the library used for the VL53L5CX ToF sensor from ST Microelectronics. Original files can be accessed at: https://github.com/stm32duino/VL53L5CX.
 
