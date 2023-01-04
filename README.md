@@ -2,7 +2,7 @@
 
 ### Source files for ToF paper: *Miniature Mobile Robot Detection using an Ultra-Low Resolution Time-of-Flight Sensor*.
 
-The dataset can be accessed via IEEEDataport https://ieee-dataport.org. The Dataset DOI is TODO.
+The dataset can be accessed via IEEEDataport https://ieee-dataport.org. The Dataset DOI is 10.21227/28ha-8921.
 
 The ToF_library_inferencing.zip file contains the EdgeImpulse platform library with the best selected model for robot classification.
 
