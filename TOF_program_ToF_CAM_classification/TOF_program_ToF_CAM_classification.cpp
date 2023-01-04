@@ -35,13 +35,6 @@ size_t feature_ix = 0;
 #define INT_PIN -1
 #define RESOLUTION 64
 
-/**************************************************************************************/
-
-int obstacleThreshold = 50;
-
-
-/************************************************************************************/
-
 // Components.
 VL53L5CX sensor_vl53l5cx_sat(&DEV_I2C, LPN_PIN, I2C_RST_PIN);
 
